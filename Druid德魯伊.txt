@@ -1,0 +1,277 @@
+*****職業 *****
+    德魯伊 (Druid)
+
+*****可用種族 *****
+
+    鳥人(Fae) 半精靈(Half-Elf)  木精靈(Wood_Elf)
+
+*****素質與裝備(Stats and Equipment)*****
+
+        **素質(Stats)**
+
+            智力 (Intelligence): 爆擊傷害 (Critical Damage), 治療加成 (Healing Bonus), and 攻擊力 (Attack Power)
+            力量 (Strength): 傷害加成 (Damage Bonus)
+            敏捷 (Dexterity): 爆擊機率 (Critical Strike) and 所有抗性 (Resist All)
+            精神 (Spirit): 資源力量 (Support Power) and 耐力 (Stamina)
+            體質 (Constitution): 血量 (Health)
+            資源魔力 (Resource): 精華 (Essence, Max 1500)
+
+            *support power increases you healing in the same way that attack power increases your damage.
+            *支持力量增加你的治療量，就像攻擊力增加你的傷害一樣。
+
+        **裝備(Equipment)**
+
+            護甲 (Armor): 皮革 (Leather)
+            武器 (Weapons): 鐮刀 (Sickle)
+            腳色分類 (Role): 傷害輸出 (DPS), 治療 (Heal), 輔助支援 (Support)
+
+
+*****進階職業(Promotion Classes)*****
+
+    1. 風暴召喚者 輸出  (Stormcaller  DPS)
+    2. 大地守護者  治療輔助 (Earthkeeper  Heal/Support)
+    3. 大德魯伊  混和 (Archdruid  Hybrid)
+
+
+*****基本技能(Base Abilites)*****
+
+    **攻擊技能(Attack Abilities)**
+
+        聚焦火花 (Focused Spark)  
+            channels lightning at your target for 64 + 80 % Weapon Damage as Electricity Damage
+            向目標引導閃電，造成 64 + 80 % 的武器傷害（作為電擊傷害）
+
+    **終極技能 大招(Ultimates)**
+
+        死亡浪潮 (Death Surge)   
+            pulls nearby enemies towards you and repeatedly inflicts 40 - 60 +50& Weapon Damage as Nature Damage
+            Restores 25% to 35% of your Maximum Health. and gain the Power of Death when the power ends
+            Power of Death grants a 10% Damage Bonus for 30 seconds.
+
+            將附近的敵人拉向你並反复造成 40 - 60 +50 和武器傷害作為自然傷害
+            恢復最大生命值的 25% 到 35%。
+            力量結束時獲得 "死亡之力"
+            "死亡之力" 提供 10% 的傷害加成，持續 30 秒。
+
+            You gain a damage preventing barrier and your Expose and Dizzy statuses are removed while casting this power.
+
+            在施展此技能時，你會獲得一個傷害防護屏障，並且你的 "暴露(Expose)" 和 "眩暈(Dizzy)" 狀態會被移除。
+
+            This power can be used while suffering from Control Effects to escape and can be instantly Flash-Cast
+            該力量可以在受到 控制效果 的時候使用來逃跑，並且可以 立即順發
+
+    **Retaliations (回復)**
+
+        還擊 (Retaliate) 
+            returns you to your feet dealing 88 - 132 + 110% Weapon Damage to nearby enemies and 
+            healing you for 3% of your Maximum Health over 3 seconds.
+
+            讓你重新站起來，對附近的敵人造成 88 - 132 + 110% 的武器傷害 並在 3 秒內治療你最大生命值的 3%。
+
+*****基本天賦技能 與 被動  (Base Talent Powers and Passives)*****
+
+    **技能**
+
+        精靈火焰 (Faerie Flames)
+            engulfs an enemy in Faerie Flames decreasing Physical Mitigations by 20 for 30 seconds.
+            while affected the target cannot stealth.
+
+            用精靈火焰吞沒一名敵人，使其物理減傷降低 20，持續 30 秒。受到影響時目標不能隱身。
+
+
+
+        犧牲 (Sacrifice)
+            instantly sacrifices 20% of your Maximum Health to restore 20% of your Maximum Essence up to 79% of Maximum
+
+            立即犧牲你最大生命值的 20% 來恢復你最大 精華(Essence) 的 20%  最大值79%
+
+
+
+        祭祀 (Ritual Sacrifice)
+            instantly sacrifices 8% of your Maximum Health to restore 20% of your Maximum Essence up to 79% of Maximum.
+
+            立即犧牲你最大生命值的 8% 來恢復你最大 精華(Essence) 的 20%  最大值79%
+
+
+
+        樹皮皮膚 (Bark Skin )
+            toughens the hide of group members and you applying a barrier for 15 seconds
+            preventing 280 to 520 damage.
+
+            使團隊成員的皮膚變硬，並且你會施加一個屏障，持續 15 秒，防止 280 到 520 點傷害。
+
+
+
+
+        呼叫風暴 (Call Storm)
+            calls lightning to strike a a target stunning them and causing 128 - 192 + 160% Electricity Weapon Damage.
+
+            召喚閃電擊中一個目標，使其昏迷並造成 128 - 192 + 160% 電擊武器傷害。
+
+
+
+
+        自然恩惠 (Nature`s Grace)
+            graces you for 12 seconds, healing you for 2% of your Maximum Health each time
+            you damage an enemy with a Basic Attack.
+
+            使你恩惠 12 秒，每次你用普通攻擊傷害敵人時，治療你 2% 的最大生命值。
+
+
+
+
+        吸食種子 (Leeching Seed)
+            slows and reduces Melee Power Damage Bonus by 20% for 15 seconds.
+
+            減慢 並 降低 近戰傷害加成 20%，持續 15 秒。
+
+
+
+
+        蓋亞之牆 (Gaea`s Wall)
+            unleashes a bear spirit that may chain to additional enemies up to two times 
+            causing 168 - 252 + 210% Weapon Damage as Nature Damage.
+
+            釋放熊靈，最多可連擊額外的敵人兩次，造成 168 - 252 + 210% 武器傷害（作為自然傷害）。
+
+            Those hit will also suffer 133 - 200 Nature Damage over 12 seconds.
+
+            被擊中的人還會在 12 秒內受到 133 - 200 自然傷害。
+
+
+    **被動**
+
+        電生成 (Electrogenesis)
+            has a chance to spawn Coalesce Life orbs near you when damaging enemies.
+
+            有機率在對敵人造成傷害時在你附近產生 聚結生命球(Coalesce Life orbs)。
+
+
+****** 進階職業 和 天賦技能(Promotion Classes and Talent Abilities)****
+
+*** 1.Stormcaller風暴召喚者  (DPS)***
+
+    **裝備(Equip)**
+
+        圓盾(Bucklers)
+        符文圓盾(Runic Bucklers)
+        符文鐮刀(Runic Sickles)
+
+    **Stats(素質)**
+        1. +3% 傷害加成  (+3% Damage Bonus)
+        2. +10% 電擊傷害加成 (+10% Electricity Damage Bonus)
+        3. +10% 電擊傷害加成上限 (+10% Electricity Damage Bonus Cap)
+        4. +225 攻擊力 (+225 Attack Power)
+        5. 屏障 +50% 粉碎、電力 和 刺穿減傷 (+50% Crushing, Electricity, and Piercing Mitigation with Barriers)
+
+    **Powers(技能)**
+
+        復活 (Resurrection )
+            targets a small area and revives one unconscious vessel.
+
+            瞄準一小塊區域並喚醒失去知覺的人。
+
+
+
+        動力提升 (Kinetic Boost)
+            empowers you briefly increasing your Damage Bonus by 20% 
+            and Power Efficiency by 20% for 20 seconds.
+
+            使你短暫地增加 20% 的傷害加成和 20% 的能量效率，持續 20 秒。
+
+
+
+        風暴化身 (Storm Avatar)
+            empowers you increasing Critical Strike by 15% Critical Damage by 25%
+            Damage Bonus by 12% and Attack Power by 175 for 30 seconds.
+
+            使你的暴擊機率提高 15%，暴擊傷害提高 25%，傷害加成提高 12%，攻擊強度提高 175，持續 30 秒。
+
+            Receiving this effect you will gain Avatar Fatigue and be unable
+            to benefit from any form of Avatar for 5 min.
+
+            收到此效果後，您將獲得化身疲勞，並且在 5 分鐘內無法從任何形式的化身中受益。
+
+
+
+
+        閃電爆發 (Lightining Burst)    => 3連續打擊之1 (Combo 1 of 3)     
+            electrifies enemies with lightning for 110 - 165 + 138% Weapon Damage as Electricity Damage.
+
+            用閃電使敵人通電，造成 110 - 165 + 138% 的武器傷害（作為電擊傷害）。
+
+
+
+        閃電打擊 (Lightning Strike)   => 3連續打擊之2 (Combo 1 of 2)  
+            strike enemies with lightning for 109 - 163 + 136 Weapon Damage as Electricity Damage
+            while also Dazing them.
+
+            用閃電打擊中敵人，造成 109 - 163 + 136 武器傷害（作為電擊傷害），同時使他們眩暈(Dazing)。
+
+
+
+        極光發射器 (Aurora Emitter) => 3連續打擊之3 (Combo 1 of 3)
+            strike enemies with lightning in an area for 79 - 119 as Electricity Damage.
+            用閃電擊中一個區域內的敵人，造成 79 - 119 點電傷害。
+
+            Enemies damaged are left electrifies and will pulse an additional 27 to 40 + 25%
+            Weapon Damage as Electricity Damage over 15 seconds to nearby friendlies.
+
+            受到傷害的敵人會被帶電(electrifies)，並且會在 15 秒內對附近的友軍造成額外的 27 到 40 + 25% 武器傷害
+            （作為電擊傷害）。
+
+    **增強的力量(Enhanced Powers)**
+
+
+        1. 呼叫風暴 (Call Storm):  
+            Applies Severe Electricity Damage over Time.
+
+            隨著時間的推移施加嚴重的電傷害。
+
+
+
+        2. 聚焦火花 (Focused Spark): 
+            +30% Base Damage, +50% Critical Strike for 9 seconds or next Hit after 3 Consecutive Uses.
+
+            +30% 基礎傷害，+50% 暴擊機率，持續 9 秒 或 連續使用 3 次後的 下一次擊中。
+
+
+
+
+        3.精靈火焰 (Faerie Flames):
+            -15% Final Electricity Mitigation on Target, 
+            does NOT stack with Blight.
+
+            -15% 最終目標電力抗性減傷
+            不與枯萎疊加。
+
+
+
+
+        4.精靈之火 (Faerie Fire): 
+            -15% Final Electricity Mitigation on Target, 
+            does NOT stack with Blight.
+
+            -15% 最終目標電力抗性減傷
+            不與枯萎疊加。
+
+
+
+    **被動(Passives)**
+
+        電容器 (Capacitor)  
+            generates a stack of Capaciitance when you hit a target with Electricity Damage.
+
+            當你擊中一個帶有電擊傷害的目標時會產生一層電容(Capaciitance)。
+
+            if you gain 8 stacks in 10 seconds. Lightining Shield is applied to you.
+
+            如果你在 10 秒內獲得 8 層。獲取 "閃電盾(Lightining Shield)"
+
+            "閃電盾 Lightining Shield "
+            grants 20% Retribution and you gain 25 Essence every 2 seconds
+            for 15 seconds.
+
+            獲得 20% 的報應，並且你每 2 秒獲得 25 點精華，持續 15 秒。
+
+            *這個被動不需要裝備就能夠激活(This passive does not need to be equipped to be active)
